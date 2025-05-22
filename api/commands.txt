@@ -1,0 +1,16 @@
+# Запуск роутера
+php -S localhost:8000 router.php
+
+
+# Запуск сервиса логирования
+php -S localhost:8001 log_service.php
+
+
+# Запуск сервиса маршрутизации
+php -S localhost:8002 route_service.php
+
+
+http://localhost:8000/frontend.php
+
+
+http://localhost:8000/admin.php

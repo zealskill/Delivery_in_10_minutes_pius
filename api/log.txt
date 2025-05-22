@@ -1,0 +1,183 @@
+[2025-05-20 19:56:08] GET request for coordinates. Returned 3 coordinates
+[2025-05-20 19:56:16] GET request for coordinates. Returned 3 coordinates
+[2025-05-20 19:56:19] GET request for coordinates. Returned 3 coordinates
+[2025-05-20 19:56:25] GET request for coordinates. Returned 3 coordinates
+[2025-05-20 19:56:39] Added new coordinates: 55.123123,37.123123
+[2025-05-20 19:56:39] GET request for coordinates. Returned 2 coordinates
+[2025-05-20 19:57:13] GET request for coordinates. Returned 2 coordinates
+[2025-05-20 19:57:28] GET request for coordinates. Returned 3 coordinates
+[2025-05-20 19:57:34] GET request for coordinates. Returned 3 coordinates
+[2025-05-20 19:57:35] GET request for coordinates. Returned 3 coordinates
+[2025-05-20 19:58:29] Added new coordinates: 55.123123,37.123123
+[2025-05-20 19:58:29] GET request for coordinates. Returned 4 coordinates
+[2025-05-20 19:58:48] Removed coordinates: 55.123123,37.123123. Remaining: 4
+[2025-05-20 19:58:48] GET request for coordinates. Returned 3 coordinates
+[2025-05-20 19:59:10] GET request for coordinates. Returned 3 coordinates
+[2025-05-20 19:59:20] GET request for coordinates. Returned 3 coordinates
+[2025-05-20 19:59:31] GET request for coordinates. Returned 3 coordinates
+[2025-05-20 20:05:03] GET request for coordinates. Returned 3 coordinates
+[2025-05-20 20:05:09] GET request for coordinates. Returned 3 coordinates
+[2025-05-20 20:05:09] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-20 20:05:17] GET request for coordinates. Returned 3 coordinates
+[2025-05-20 20:05:27] Added new coordinates: 55.123123,37.123123
+[2025-05-20 20:05:27] GET request for coordinates. Returned 4 coordinates
+[2025-05-20 20:06:04] Removed coordinates: 55.123123,37.123123. Remaining: 3
+[2025-05-20 20:06:04] GET request for coordinates. Returned 3 coordinates
+[2025-05-20 20:06:09] GET request for coordinates. Returned 3 coordinates
+[2025-05-20 20:06:09] Route from зеленоград к455 to 55.998197, 37.184308 (pedestrian)
+[2025-05-21 23:06:58] GET request for coordinates. Returned 3 coordinates
+[2025-05-21 23:07:06] GET request for coordinates. Returned 3 coordinates
+[2025-05-21 23:07:06] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:09:50] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:10:01] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:10:02] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:12:18] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:23] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:34] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:35] Route from зеленоград к433 to 55.998197, 37.184308 (pedestrian)
+[2025-05-22 00:16:37] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:37] Route from зеленоград к433 to 55.998197, 37.184308 (pedestrian)
+[2025-05-22 00:16:38] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:39] Route from зеленоград к433 to 55.998197, 37.184308 (pedestrian)
+[2025-05-22 00:16:39] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:40] Route from зеленоград к433 to 55.998197, 37.184308 (pedestrian)
+[2025-05-22 00:16:42] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:42] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:16:42] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:43] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:16:43] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:44] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:44] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:16:44] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:44] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:45] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:45] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:16:45] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:45] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:16:45] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:45] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:16:45] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:16:46] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:16:49] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:50] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:16:50] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:50] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:50] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:51] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:51] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:16:51] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:16:51] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:16:51] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:16:51] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:17:11] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:13] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:14] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:14] Route from зеленоград 455 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:17:15] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:15] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:16] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:16] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:16] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:16] Route from зеленоград 455 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:17:16] Route from зеленоград 455 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:17:16] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:16] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:16] Route from зеленоград 455 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:17:16] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:17] Route from зеленоград 455 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:17:17] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:17] Route from зеленоград 455 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:17:17] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:17] Route from зеленоград 455 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:17:17] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:17] Route from зеленоград 455 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:17:17] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:17] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:17] Route from зеленоград 455 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:17:17] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:18] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:18] Route from зеленоград 455 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:17:18] Route from зеленоград 455 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:17:18] Route from зеленоград 455 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:17:19] Route from зеленоград 455 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:17:19] Route from зеленоград 455 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:17:31] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:32] Route from зеленоград 420 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:17:43] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:17:44] Route from зеленоград 420 to 55.998197, 37.184308 (pedestrian)
+[2025-05-22 00:34:29] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:01] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:01] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:35:05] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:05] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:05] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:05] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:05] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:35:05] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:35:05] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:06] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:06] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:35:06] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:06] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:06] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:35:06] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:06] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:35:06] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:06] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:35:06] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:07] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:35:07] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:07] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:07] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:35:07] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:35:07] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:07] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:35:08] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:35:08] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:35:14] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:15] Route from зеленоград к420 to 55.998197, 37.184308 (pedestrian)
+[2025-05-22 00:35:34] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:35] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:38] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:43] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:43] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:35:53] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:54] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:35:56] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:35:57] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:36:00] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:36:00] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:36:03] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:36:03] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:36:05] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:36:06] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:36:08] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:36:08] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:36:08] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:36:08] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:36:08] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:36:08] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:36:08] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:36:08] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:36:09] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:36:09] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:36:09] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:36:09] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:36:09] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:36:09] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:36:09] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:36:10] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 00:36:10] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 00:36:10] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 14:48:33] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 14:48:44] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 14:48:46] Route from зеленоград к433 to 55.998197, 37.184308 (auto)
+[2025-05-22 14:48:51] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 14:48:52] Route from зеленоград к433 to 55.998197, 37.184308 (pedestrian)
+[2025-05-22 14:49:32] GET request for coordinates. Returned 3 coordinates
+[2025-05-22 14:49:43] Added new coordinates: 55.123123,37.123123
+[2025-05-22 14:49:43] GET request for coordinates. Returned 2 coordinates
+[2025-05-22 14:49:49] GET request for coordinates. Returned 2 coordinates
+[2025-05-22 14:50:03] GET request for coordinates. Returned 4 coordinates
+[2025-05-22 14:50:18] Removed coordinates: 55.123123,37.123123. Remaining: 3
+[2025-05-22 14:50:18] GET request for coordinates. Returned 3 coordinates
