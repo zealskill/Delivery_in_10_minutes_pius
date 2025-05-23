@@ -1,7 +1,7 @@
 # 🚀 Доставка за 10 минут <img src="https://media.tenor.com/yWSRmymbu5oAAAAC/delivery-fast.gif" width="40">
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c3d81e57-c819-4643-867c-86725eb3de03" width="800">
+  <img src="https://github.com/user-attachments/assets/ae5c0959-8f2f-4e7c-b515-92eaebaefdca" width="800">
 </div>
 
 ## История проекта 📖
